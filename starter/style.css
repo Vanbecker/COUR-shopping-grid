@@ -1,0 +1,52 @@
+body {
+  /* background-color: #eee !important; */
+  /* text-align: center; */
+  background: linear-gradient(rgb(255, 208, 0), rgb(255, 221, 192));
+}
+
+.ratings i {
+  color: #f5b027;
+}
+
+.rate {
+  color: #f5b027;
+}
+
+.install span {
+  font-size: 12px;
+}
+
+.col-md-4 {
+  margin-top: 27px;
+}
+
+.custom-margin {
+  margin-left: 1em;
+}
+
+.form-select {
+  width: 150px !important;
+}
+
+.mt-5 {
+  
+}
+
+
+/* !importantpermet de passer outre boostrap */
+
+
+
+
+/* AUTRE */
+/* .card {
+  background: linear-gradient(rgb(255, 208, 0), rgb(255, 221, 192));
+  
+}
+
+.row{
+row-gap: 10px;
+gap: 100px;
+justify-content: center;
+  
+} */
