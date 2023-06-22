@@ -26,3 +26,5 @@ async function fetchData() {
 
 
 
+// etaper 1 log console- tout le tableau
+
